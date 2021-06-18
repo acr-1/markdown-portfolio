@@ -1,3 +1,4 @@
-#this is an <h1> header,wich is largest 
-  ##this is an <h2> header
-  #####this is an <h6> header,wich is smallest
+# This is an <h1> header, which is the largest
+## This is an <h2> header
+###### This is an <h6> header, which is the smallest
+
